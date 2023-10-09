@@ -5,12 +5,13 @@
 - [Shadowrocket](https://shadowrocket.v2cross.com/)（小火箭）
 - [迷雾通](https://waa.ai/xiazaimiwutong)
 - [v2ray](https://github.com/freefq/free)
+- [clash]([https://github.com/freefq/free](https://www.v2rayfree.eu.org/post/clash-for-android-tutorial/))
 
 ### windows
 
 - [迷雾通](https://waa.ai/xiazaimiwutong)
-
 - [v2ray](https://github.com/freefq/free)
+- [clash]([https://github.com/freefq/free](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/))
 
 ### 教程
 
