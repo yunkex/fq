@@ -1,13 +1,13 @@
 ## 翻墙--科学上网
 
-### 安卓
+### Andriod
 
 - [Shadowrocket](https://shadowrocket.v2cross.com/)（小火箭）
 - [迷雾通](https://waa.ai/xiazaimiwutong)
 - [v2ray](https://github.com/freefq/free)
 - [clash](https://www.v2rayfree.eu.org/post/clash-for-android-tutorial)
 
-### windows
+### Windows
 
 - [迷雾通](https://waa.ai/xiazaimiwutong)
 - [v2ray](https://github.com/freefq/free)
