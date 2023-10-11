@@ -13,6 +13,7 @@
 - #### [迷雾通](https://waa.ai/xiazaimiwutong)
 - #### [v2ray](https://github.com/freefq/free)
 - #### [clash](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial)
+  ##### [clash教程](https://jichangtuijian.com/clash%E6%95%99%E7%A8%8B.html)
 
 ### 教程
 
