@@ -7,7 +7,8 @@
 - #### [v2ray](https://github.com/freefq/free)
   ##### [官网]( https://v2ray.com)
 - #### [clash](https://www.v2rayfree.eu.org/post/clash-for-android-tutorial)
-
+  ##### [EMO](https://yyds.emovpn.top/#/dashboard) 节点
+  
 ### Windows
 
 - #### [迷雾通](https://waa.ai/xiazaimiwutong)
