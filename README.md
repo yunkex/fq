@@ -15,6 +15,7 @@
 - #### [v2ray](https://github.com/freefq/free)
 - #### [clash](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial)
   ##### [clash教程](https://jichangtuijian.com/clash%E6%95%99%E7%A8%8B.html)
+  ##### [EMO](https://yyds.emovpn.top/#/register?code=0tJ6pWYv) class可用节点，最低3R/月，可看油管电报
 
 ### 教程
 
