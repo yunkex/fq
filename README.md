@@ -7,7 +7,7 @@
 - #### [v2ray](https://github.com/freefq/free)
   ##### [官网]( https://v2ray.com)
 - #### [clash](https://www.v2rayfree.eu.org/post/clash-for-android-tutorial)
-  ##### [EMO](https://yyds.emovpn.top/#/dashboard) 节点
+  ##### [EMO](https://yyds.emovpn.top/#/register?code=0tJ6pWYv) class可用节点，最低3R/月，可看油管电报
   
 ### Windows
 
